@@ -18,11 +18,11 @@ author:
   url: www.dronamaps.com
 name: DronaMaps
 navigation:
-  - name: About Us
-    id: cb84403d-0ce0-4624-a6ee-591351b8f4b9
-    type: content
   - name: Verticals
     id: 938403c0-d708-4db7-bce0-a20b554c2ca3
+    type: content
+  - name: About Us
+    id: cb84403d-0ce0-4624-a6ee-591351b8f4b9
     type: content
   - name: Careers
     id: 4413c527-30ca-496d-bfd4-513464286737
