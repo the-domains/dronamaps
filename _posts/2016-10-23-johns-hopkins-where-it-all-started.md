@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-23T13:23:23.770Z'
+datePublished: '2016-10-23T13:23:23.612Z'
 sourcePath: _posts/2016-10-23-johns-hopkins-where-it-all-started.md
 inFeed: false
 hasPage: true
