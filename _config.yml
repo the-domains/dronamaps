@@ -1,0 +1,42 @@
+typography_spectrum: 0.8982413217901151
+color:
+  brandStrength: 0.8220936107295242
+  lightness: 0.5074013436955428
+  saturation: 0.06961335014902276
+  rhythmicContrast: 0.1864614087246395
+  brandColors:
+    - '#FEFCFD'
+    - '#7C7C7C'
+    - '#4B0000'
+    - '#3A3A3A'
+    - '#AB0000'
+github: true
+layout_spectrum: 0.3126562044738174
+author:
+  name: Utkarsh Singh
+  email: usingh@dronamaps.com
+  url: www.dronamaps.com
+name: DronaMaps
+navigation:
+  - name: About Us
+    id: cb84403d-0ce0-4624-a6ee-591351b8f4b9
+    type: content
+  - name: Verticals
+    id: 938403c0-d708-4db7-bce0-a20b554c2ca3
+    type: content
+  - name: Careers
+    id: 4413c527-30ca-496d-bfd4-513464286737
+    type: content
+  - name: Blog
+    id: e333ed96-ea22-41f6-b13b-44136b8596a0
+    type: content
+  - name: Contact Us
+    id: 9c035177-7483-4579-9014-14805e920072
+    type: content
+title: DronaMaps
+content: []
+description: A DronaCharya Company
+purpose:
+  - type: contact
+    url: 'mailto:info@dronamaps.com'
+    label: Contact Us
