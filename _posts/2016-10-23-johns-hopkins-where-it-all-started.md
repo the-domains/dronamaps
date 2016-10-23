@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-23T13:23:23.612Z'
+datePublished: '2016-10-23T13:29:52.728Z'
 sourcePath: _posts/2016-10-23-johns-hopkins-where-it-all-started.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-23T13:22:56.794Z'
+dateModified: '2016-10-23T13:29:51.567Z'
 title: Johns Hopkins — where it all started
 publisher: {}
 description: ''
