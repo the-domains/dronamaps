@@ -27,11 +27,11 @@ navigation:
   - name: Careers
     id: 4413c527-30ca-496d-bfd4-513464286737
     type: content
-  - name: Blog
-    id: e333ed96-ea22-41f6-b13b-44136b8596a0
-    type: content
   - name: Contact Us
     id: 9c035177-7483-4579-9014-14805e920072
+    type: content
+  - name: Blog
+    id: e333ed96-ea22-41f6-b13b-44136b8596a0
     type: content
 title: DronaMaps
 content: []
