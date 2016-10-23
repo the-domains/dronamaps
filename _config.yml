@@ -13,8 +13,8 @@ color:
 github: true
 layout_spectrum: 0.42298805365864517
 author:
-  name: Utkarsh Singh
-  email: usingh@dronamaps.com
+  name: 'Created with ❤ by Molly, the AI robot'
+  email: info@dronamaps.com
   url: www.dronamaps.com
 name: DronaMaps
 navigation:
@@ -33,6 +33,8 @@ navigation:
   - name: Blog
     id: e333ed96-ea22-41f6-b13b-44136b8596a0
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/68e2beee-b6c2-40ab-a7ab-857ddbb684fb.png
 title: DronaMaps
 content: []
 description: A DronaCharya Company
