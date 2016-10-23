@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-23T12:46:56.222Z'
+datePublished: '2016-10-23T13:05:37.640Z'
 sourcePath: _posts/2016-10-17-founders-letter.md
 inFeed: true
 isBasedOnUrl: >-
@@ -9,7 +9,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-10-23T12:46:55.035Z'
+dateModified: '2016-10-23T13:05:36.416Z'
 title: Founder’s Letter
 app_links: []
 publisher: {}
@@ -25,7 +25,7 @@ description: >-
   us immense data intelligence at the same time — truly things which when
   brought together will change the world not just virtually but physically and
   for good.
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
